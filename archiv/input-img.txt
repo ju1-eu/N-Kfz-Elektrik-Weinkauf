@@ -1,0 +1,337 @@
+<!-----------------------------------------------
+Alle Abbildungen 'images/' in Markdown speichern.
+	* 'archiv/input-img.txt'
+ju 28-Mai-2022 input-img.txt
+------------------------------------------------->
+
+
+<!--Messmethodik vgl. abb.-->
+
+![Messmethodik](images/Messmethodik.pdf){width=60%}
+
+
+<!--titelbild vgl. abb.-->
+
+![titelbild](images/titelbild.pdf){width=60%}
+
+
+<!--01_Generatorregel_Skizze vgl. abb.-->
+
+![01_Generatorregel_Skizze](images/Skizze/01_Generatorregel_Skizze.pdf){width=60%}
+
+
+<!--01_Schaltung_Messen_Skizze vgl. abb.-->
+
+![01_Schaltung_Messen_Skizze](images/Skizze/01_Schaltung_Messen_Skizze.pdf){width=60%}
+
+
+<!--02_Motorregel_Skizze vgl. abb.-->
+
+![02_Motorregel_Skizze](images/Skizze/02_Motorregel_Skizze.pdf){width=60%}
+
+
+<!--02_Schaltung_Messen_Skizze vgl. abb.-->
+
+![02_Schaltung_Messen_Skizze](images/Skizze/02_Schaltung_Messen_Skizze.pdf){width=60%}
+
+
+<!--03_Schaltung_Messen_Skizze vgl. abb.-->
+
+![03_Schaltung_Messen_Skizze](images/Skizze/03_Schaltung_Messen_Skizze.pdf){width=60%}
+
+
+<!--03_StromdurchflosseneSpule_Skizze vgl. abb.-->
+
+![03_StromdurchflosseneSpule_Skizze](images/Skizze/03_StromdurchflosseneSpule_Skizze.pdf){width=60%}
+
+
+<!--04_Stromdichte_Skizze vgl. abb.-->
+
+![04_Stromdichte_Skizze](images/Skizze/04_Stromdichte_Skizze.pdf){width=60%}
+
+
+<!--05_StromdurchflossenerLeiter_Skizze vgl. abb.-->
+
+![05_StromdurchflossenerLeiter_Skizze](images/Skizze/05_StromdurchflossenerLeiter_Skizze.pdf){width=60%}
+
+
+<!--06_Stromfluss_Messen_Skizze vgl. abb.-->
+
+![06_Stromfluss_Messen_Skizze](images/Skizze/06_Stromfluss_Messen_Skizze.pdf){width=60%}
+
+
+<!--07_Reihenschaltung_Widerstaende_Skizze vgl. abb.-->
+
+![07_Reihenschaltung_Widerstaende_Skizze](images/Skizze/07_Reihenschaltung_Widerstaende_Skizze.pdf){width=60%}
+
+
+<!--08_Relais_Skizze vgl. abb.-->
+
+![08_Relais_Skizze](images/Skizze/08_Relais_Skizze.pdf){width=60%}
+
+
+<!--09_Stroeme_einer_Relaisschaltung_Skizze vgl. abb.-->
+
+![09_Stroeme_einer_Relaisschaltung_Skizze](images/Skizze/09_Stroeme_einer_Relaisschaltung_Skizze.pdf){width=60%}
+
+
+<!--10_Stromrelais_Skizze vgl. abb.-->
+
+![10_Stromrelais_Skizze](images/Skizze/10_Stromrelais_Skizze.pdf){width=60%}
+
+
+<!--11_Schrittrelais_Skizze vgl. abb.-->
+
+![11_Schrittrelais_Skizze](images/Skizze/11_Schrittrelais_Skizze.pdf){width=60%}
+
+
+<!--12_Reedkontaktschalter_Skizze vgl. abb.-->
+
+![12_Reedkontaktschalter_Skizze](images/Skizze/12_Reedkontaktschalter_Skizze.pdf){width=60%}
+
+
+<!--13_Spannungsverlust_Skizze vgl. abb.-->
+
+![13_Spannungsverlust_Skizze](images/Skizze/13_Spannungsverlust_Skizze.pdf){width=60%}
+
+
+<!--14_ Innenwiderstand_von_Spannungsquellen_Skizze vgl. abb.-->
+
+![14_ Innenwiderstand_von_Spannungsquellen_Skizze](images/Skizze/14_ Innenwiderstand_von_Spannungsquellen_Skizze.pdf){width=60%}
+
+
+<!--15_Schaltzeichen_Widerstand_Skizze vgl. abb.-->
+
+![15_Schaltzeichen_Widerstand_Skizze](images/Skizze/15_Schaltzeichen_Widerstand_Skizze.pdf){width=60%}
+
+
+<!--16_Widerstandsmessung_Skizze vgl. abb.-->
+
+![16_Widerstandsmessung_Skizze](images/Skizze/16_Widerstandsmessung_Skizze.pdf){width=60%}
+
+
+<!--17_Leistungsteilung_Skizze vgl. abb.-->
+
+![17_Leistungsteilung_Skizze](images/Skizze/17_Leistungsteilung_Skizze.pdf){width=60%}
+
+
+<!--18_Stromflusserhoehung_Strombegrenzung_Spannungsteilung_Skizze vgl. abb.-->
+
+![18_Stromflusserhoehung_Strombegrenzung_Spannungsteilung_Skizze](images/Skizze/18_Stromflusserhoehung_Strombegrenzung_Spannungsteilung_Skizze.pdf){width=60%}
+
+
+<!--19_Parallelschaltung_Widerstaende_Skizze vgl. abb.-->
+
+![19_Parallelschaltung_Widerstaende_Skizze](images/Skizze/19_Parallelschaltung_Widerstaende_Skizze.pdf){width=60%}
+
+
+<!--20_FM_Nr5_Innenwiderstand_Aufg1_Skizze vgl. abb.-->
+
+![20_FM_Nr5_Innenwiderstand_Aufg1_Skizze](images/Skizze/20_FM_Nr5_Innenwiderstand_Aufg1_Skizze.pdf){width=60%}
+
+
+<!--21_FM_Nr5_Innenwiderstand_Aufg2_Skizze vgl. abb.-->
+
+![21_FM_Nr5_Innenwiderstand_Aufg2_Skizze](images/Skizze/21_FM_Nr5_Innenwiderstand_Aufg2_Skizze.pdf){width=60%}
+
+
+<!--22_FM_Nr3_Reihenschaltung_Aufg3_Skizze vgl. abb.-->
+
+![22_FM_Nr3_Reihenschaltung_Aufg3_Skizze](images/Skizze/22_FM_Nr3_Reihenschaltung_Aufg3_Skizze.pdf){width=60%}
+
+
+<!--23_FM_Nr3_Reihenschaltung_Aufg4_Skizze vgl. abb.-->
+
+![23_FM_Nr3_Reihenschaltung_Aufg4_Skizze](images/Skizze/23_FM_Nr3_Reihenschaltung_Aufg4_Skizze.pdf){width=60%}
+
+
+<!--24_FM_Nr4_Reihenschaltung_Aufg4_Skizze vgl. abb.-->
+
+![24_FM_Nr4_Reihenschaltung_Aufg4_Skizze](images/Skizze/24_FM_Nr4_Reihenschaltung_Aufg4_Skizze.pdf){width=60%}
+
+
+<!--25_FM_Nr7_gemischte_Schaltung_A1 vgl. abb.-->
+
+![25_FM_Nr7_gemischte_Schaltung_A1](images/Skizze/25_FM_Nr7_gemischte_Schaltung_A1.pdf){width=60%}
+
+
+<!--25_FM_Nr7_gemischte_Schaltung_A2 vgl. abb.-->
+
+![25_FM_Nr7_gemischte_Schaltung_A2](images/Skizze/25_FM_Nr7_gemischte_Schaltung_A2.pdf){width=60%}
+
+
+<!--25_FM_Nr7_gemischte_Schaltung_A3 vgl. abb.-->
+
+![25_FM_Nr7_gemischte_Schaltung_A3](images/Skizze/25_FM_Nr7_gemischte_Schaltung_A3.pdf){width=60%}
+
+
+<!--25_FM_Nr7_gemischte_Schaltung_A4 vgl. abb.-->
+
+![25_FM_Nr7_gemischte_Schaltung_A4](images/Skizze/25_FM_Nr7_gemischte_Schaltung_A4.pdf){width=60%}
+
+
+<!--25_gemischte_Schaltung vgl. abb.-->
+
+![25_gemischte_Schaltung](images/Skizze/25_gemischte_Schaltung.pdf){width=60%}
+
+
+<!--26_FM_Leistung_Mathebuch_A3 vgl. abb.-->
+
+![26_FM_Leistung_Mathebuch_A3](images/Skizze/26_FM_Leistung_Mathebuch_A3.pdf){width=60%}
+
+
+<!--26_FM_Nr8_Leistung_A1 vgl. abb.-->
+
+![26_FM_Nr8_Leistung_A1](images/Skizze/26_FM_Nr8_Leistung_A1.pdf){width=60%}
+
+
+<!--26_FM_Nr8_Leistung_A3 vgl. abb.-->
+
+![26_FM_Nr8_Leistung_A3](images/Skizze/26_FM_Nr8_Leistung_A3.pdf){width=60%}
+
+
+<!--26_FM_Nr8_Leistung_A4 vgl. abb.-->
+
+![26_FM_Nr8_Leistung_A4](images/Skizze/26_FM_Nr8_Leistung_A4.pdf){width=60%}
+
+
+<!--26_Leistung_Gluehlampe vgl. abb.-->
+
+![26_Leistung_Gluehlampe](images/Skizze/26_Leistung_Gluehlampe.pdf){width=60%}
+
+
+<!--27_FT_Lenkrollradius_Nachlauf vgl. abb.-->
+
+![27_FT_Lenkrollradius_Nachlauf](images/Skizze/27_FT_Lenkrollradius_Nachlauf.pdf){width=60%}
+
+
+<!--28_FT_Brueckenschaltung vgl. abb.-->
+
+![28_FT_Brueckenschaltung](images/Skizze/28_FT_Brueckenschaltung.pdf){width=60%}
+
+
+<!--28_FT_Potentialbestimmung vgl. abb.-->
+
+![28_FT_Potentialbestimmung](images/Skizze/28_FT_Potentialbestimmung.pdf){width=60%}
+
+
+<!--28_Scheinwerferhoehenverstellung vgl. abb.-->
+
+![28_Scheinwerferhoehenverstellung](images/Skizze/28_Scheinwerferhoehenverstellung.pdf){width=60%}
+
+
+<!--28_Scheinwerferhoehenverstellung2 vgl. abb.-->
+
+![28_Scheinwerferhoehenverstellung2](images/Skizze/28_Scheinwerferhoehenverstellung2.pdf){width=60%}
+
+
+<!--29_FT_Signalanlage_Relais_6V vgl. abb.-->
+
+![29_FT_Signalanlage_Relais_6V](images/Skizze/29_FT_Signalanlage_Relais_6V.pdf){width=60%}
+
+
+<!--29_FT_Tagfahrlicht_Relais vgl. abb.-->
+
+![29_FT_Tagfahrlicht_Relais](images/Skizze/29_FT_Tagfahrlicht_Relais.pdf){width=60%}
+
+
+<!--29_FT_minusseitiger_Ubergangswiderstand vgl. abb.-->
+
+![29_FT_minusseitiger_Ubergangswiderstand](images/Skizze/29_FT_minusseitiger_Ubergangswiderstand.pdf){width=60%}
+
+
+<!--30_FT_Doppelschlussmotor vgl. abb.-->
+
+![30_FT_Doppelschlussmotor](images/Skizze/30_FT_Doppelschlussmotor.pdf){width=60%}
+
+
+<!--30_FT_Nebenschlussmotor_mit_Feldwicklung vgl. abb.-->
+
+![30_FT_Nebenschlussmotor_mit_Feldwicklung](images/Skizze/30_FT_Nebenschlussmotor_mit_Feldwicklung.pdf){width=60%}
+
+
+<!--30_FT_Nebenschlussmotor_mit_Permanenterregung vgl. abb.-->
+
+![30_FT_Nebenschlussmotor_mit_Permanenterregung](images/Skizze/30_FT_Nebenschlussmotor_mit_Permanenterregung.pdf){width=60%}
+
+
+<!--30_FT_Reihenschlussmotor vgl. abb.-->
+
+![30_FT_Reihenschlussmotor](images/Skizze/30_FT_Reihenschlussmotor.pdf){width=60%}
+
+
+<!--30_FT_Schrittmotor vgl. abb.-->
+
+![30_FT_Schrittmotor](images/Skizze/30_FT_Schrittmotor.pdf){width=60%}
+
+
+<!--30_FT_Wechselstrommotor vgl. abb.-->
+
+![30_FT_Wechselstrommotor](images/Skizze/30_FT_Wechselstrommotor.pdf){width=60%}
+
+
+<!--KaWa-1-Elektrotechnik-GL vgl. abb.-->
+
+![KaWa-1-Elektrotechnik-GL](images/Skizze/KaWa-1-Elektrotechnik-GL.pdf){width=60%}
+
+
+<!--Kupfer_Wuerfel_Dichte vgl. abb.-->
+
+![Kupfer_Wuerfel_Dichte](images/Skizze/Kupfer_Wuerfel_Dichte.pdf){width=60%}
+
+
+<!--Messmethodik_Schaltkreis vgl. abb.-->
+
+![Messmethodik_Schaltkreis](images/Skizze/Messmethodik_Schaltkreis.pdf){width=60%}
+
+
+<!--Logo-Details vgl. abb.-->
+
+![Logo-Details](images/Logo/Logo-Details.pdf){width=60%}
+
+
+<!--Logo-Farbe vgl. abb.-->
+
+![Logo-Farbe](images/Logo/Logo-Farbe.pdf){width=60%}
+
+
+<!--Logo-Grau vgl. abb.-->
+
+![Logo-Grau](images/Logo/Logo-Grau.pdf){width=60%}
+
+
+<!--Logo-SW vgl. abb.-->
+
+![Logo-SW](images/Logo/Logo-SW.pdf){width=60%}
+
+
+<!--Logo-negativ vgl. abb.-->
+
+![Logo-negativ](images/Logo/Logo-negativ.pdf){width=60%}
+
+
+<!--Logo1 vgl. abb.-->
+
+![Logo1](images/Logo/Logo1.pdf){width=60%}
+
+
+<!--Logo2 vgl. abb.-->
+
+![Logo2](images/Logo/Logo2.pdf){width=60%}
+
+
+<!--logo-eps-converted-to vgl. abb.-->
+
+![logo-eps-converted-to](images/Logo/logo-eps-converted-to.pdf){width=60%}
+
+
+<!--logo vgl. abb.-->
+
+![logo](images/Logo/logo.pdf){width=60%}
+
+
+<!--titelbild vgl. abb.-->
+
+![titelbild](images/Logo/titelbild.pdf){width=60%}
+
+

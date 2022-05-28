@@ -1,0 +1,255 @@
+%ju 28-Mai-22 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.tex
+\section{Übungsaufgaben
+Beleuchtungssystem}\label{uebungsaufgaben-beleuchtungssystem}
+
+\textbf{(Ü10) Scheinwerferhöhenverstellung Beleuchtungssystem + VW
+Stromlaufplan}
+
+\textbf{Aufgabe 1}
+
+\begin{itemize}
+\item
+  Ist eine Wartung durchgeführt worden?
+\item
+  Ist die Glühlampe oder der Scheinwerfer gewechselt worden
+\item
+  ist eine Motorwäsche durchgeführt worden
+\item
+  unter welchen Bedingungen ist dieses Ereignis aufgetreten
+  (Feuchtigkeit, Wetter)
+\item
+  Unfall (Quetschung der Leitungen, Übergangswiderstand bilden)
+\item
+  witterungsbedingte Einflussnahme
+\end{itemize}
+
+\textbf{Aufgabe 2} Messung Strompfad 186-196 (Schaltplan VW -
+Scheinwerferhöhenverstellung Beleuchtungssystem)
+
+\begin{figure}[!ht]% hier: !ht
+\centering
+\includegraphics[width=0.9\textwidth]{images/Skizze/28_Scheinwerferhoehenverstellung.pdf}
+\caption{Scheinwerferhöhenverstellung}
+%\label{fig:}%% anpassen
+\end{figure}
+
+\begin{itemize}
+\item
+  Klemmenspannung Stellmotor messen
+\item
+  Geberspannung Signal (hoch/runter) messen
+\item
+  Synchronisierung der Höhenverstellung durchführen
+\item
+  mit Diagnosetester Fehlerspeicher auslesen
+\item
+  Sichtprüfung Stecker, Leitung, Sicherung, Mechanik
+\end{itemize}
+
+\textbf{Aufgabe 3} Ausgangszustand ist eine abgeglichene
+Brückenschaltungsspannung zwischen dem Potenziometer E102 und
+Potenziometern der Scheinwerfermotoren V48 und V49. Wird die
+Potentiometerstellung (Stellrad) an E102 geändert, ändert sich
+automatisch die Brückenspannung zwischen den beiden Komponenten \{E102
+und den Potis von V48 und V49\}.
+
+Die Auswerteelektronik erfasst im Brückenspannungswert und steuert die
+Motoren V48 und V49 so lange mit der entsprechenden Polarität an, bis
+die Brückenspannung wieder den Wert Null Volt erreicht. Die
+Brückenspannung hat jetzt wieder ihren Ausgangswert (0 V), allerdings
+bei einer anderen Stellung der Reflektoren.
+
+Als Information über den Drehwinkelstand der Motoren, dienen die
+Potenziometer, deren Schleifer mit den Reflektoren verbunden sind.
+
+Das Bauteil, welches in der Regel verstellt wird, ist der Reflektor.
+
+Die Drehrichtungsänderung erfolgt über die Polaritätsänderung an den
+elektrischen Anschlüssen der Motoren.
+
+\textbf{Aufgabe 4} Messobjekt (Poti E102) muss aus dem Stromkreis gelöst
+und spannungsfrei sein.
+
+Zur Messung des Wiederstandes Poti gemäß seiner Funktion
+bewegen/drehen/verändern alle Funktionen/Stufen durchschalten.
+
+\textbf{Aufgabe 5} Fahrzeuge mit Xeon Scheinwerfersystemen müssen mit
+einer
+
+\begin{enumerate}
+\item
+  automatischen Scheinwerferhöhenverstellungeinrichtung und
+\item
+  mit einer Scheinwerferreinigungsanlage ausgestattet sein,
+\item
+  bei Scheinwerfern mit Gasentladungslampen für Abblendlicht, wenn
+  hierbei das Fernlicht eingeschaltet wird, muss das Abblendlicht in
+  Funktion bleiben, also eingeschaltet bleiben
+\end{enumerate}
+
+siehe §50 STVZO, Tabellenbuch D2S, D2R, D1S, D1R
+
+Scheinwerferhöhenverstellung
+
+\begin{itemize}
+\item
+  Manuell
+\item
+  Automatisch
+\item
+  Dynamisch
+\item
+  Stichwort: Scheinwerferreinigungsanlage
+\end{itemize}
+
+\textbf{Aufgabe 6}
+
+\begin{itemize}
+\item
+  Die Geräte M29, M31, V48 und V49 sind schaltungstechnisch parallel
+  geschaltet, wobei M29 über die Sicherung S21 abgesichert wird,
+  insofern hier keine Spannungsminderung auftreten wird
+\item
+  die Geräte M31 T10c/7, V48 T10b/1, V49 T10c/1, als auch E102 erfahren
+  die Spannungsminderung um 3,25 V (alles auf die Masseversorgung des
+  jeweiligen Bauteils gemessen)
+\item
+  Der Stromkreis muss geschlossen sein, es muss ein Strom fließen, also
+  Licht (Abblendlicht) einschalten!
+\item
+  Einsteller E102 während der Messung betätigen
+\end{itemize}
+
+\textbf{Aufgabe 7}
+
+Prüfzeichen und Bauartgenehmigung für Fahrzeugteile §21a, §22a
+
+\begin{itemize}
+\item
+  \textbf{BRD} \verb|\~\~\~|
+\item
+  \textbf{EG} e1
+\item
+  \textbf{ECE} E1 (Prüfbuchstabe, Genehmigungsnummer, 1 = Deutschland, 2
+  = Frankreich)
+\end{itemize}
+
+\textbf{Aufgabe 8}
+
+Stromlaufplan Nr. 73/2 + 73/12 + 73/8 + 73/15
+
+\begin{enumerate}
+\item
+  (Farbe Rot) Leuchtweitenregulierungsverlauf
+\item
+  (Farbe Blau) Laststrom Motoren Leuchtweiten
+\item
+  (Farbe Grün) Stromverlauf Abblendlicht
+\end{enumerate}
+
+\newpage
+
+\textbf{Aufgabe 9}
+
+Schaltbild
+
+\begin{figure}[!ht]% hier: !ht
+\centering
+\includegraphics[width=0.6\textwidth]{images/Skizze/29_FT_minusseitiger_Ubergangswiderstand.pdf}
+\caption{minusseitiger Übergangswiderstand}
+%\label{fig:}%% anpassen
+\end{figure}
+
+Es hat sich zwischen T10c/3 und der Masseverbindung im Leitungsstrang
+Strompfad 184 ein Übergangswiderstand gebildet, er liegt in Reihe zum
+V49. Dieser Widerstand mindert die Klemmenspannung des Motors V49,
+ferner bekommt die Brückenschalung des V49 unplausible Widerstandswerte.
+Man spricht hierbei von einem minusseitigen Übergangswiderstand. Der
+Spannungsverlust, der hierbei entsteht, bezeichnet man als einen
+minusseitigen Spannungsverlust.
+
+\begin{table}[!ht]% hier: !ht 
+\centering 
+	\caption{}% \label{tab:}%% anpassen 
+\begin{tabular}{@{}ll@{}}
+\hline
+\textbf{Bezeichnung} & \textbf{Benennung} \\
+\hline
+V49 & Scheinwerferhöhenverstellmotor rechts \\
+T10c/5 & Anschluss Steuerung \\
+T10c/1 & Plusversorgung \\
+T10c/3 & Masse \\
+$R_\text{ü}$ & Übergangswiderstand \\
+\hline
+\end{tabular} 
+\end{table}
+
+\newpage
+
+\textbf{Aufgabe 10}
+
+\lstset{language=Python}% C, TeX, Bash, Python 
+\begin{lstlisting}[
+	%caption={}, label={code:}%% anpassen
+][language=Python]
+# geg:
+P_M_31 = 55 W/12V
+U = 12 # V
+U_ges = 14,3 V
+U_v = 3,25 V
+# ges: P_M_31_tat
+# Formel:
+P_M_31 = U x I -> I = P_M_31 / U
+R = U / I
+I_tat = U_k / R -> I_tat = (U_ges - U_v) / R
+P_M_31_tat = U_k x I_tat -> P_M_31_tat = (U_ges - U_v) x I_tat
+# Lösung:
+I = 4,5833 A
+R = 2,6182 Ohm
+I_tat = 4,2205 A
+P_M_31_tat = 46,6364 W
+\end{lstlisting}
+
+\textbf{Aufgabe 11}
+
+d = 31, 56a, 56b, 58R (Scheinwerfer vorne rechts)
+
+\newpage
+
+\textbf{Aufgabe 12}
+
+\lstset{language=Python}% C, TeX, Bash, Python 
+\begin{lstlisting}[
+	%caption={}, label={code:}%% anpassen
+][language=Python]
+# geg:
+P_12 = 21 W/12V
+P_24 = 21 W/24V
+U_12 = 12 V
+U_24 = 24 V
+# ges: R_24, R_12
+# Formel:
+P_12 = U x I -> I_12 = P_12 / U_12
+R_12 = U_12 / I_12
+P_24 = U x I -> I_24 = P_24 / U_24
+R_24 = U_24 / I_24
+Faktor = R_24 / R_12
+# Lösung:
+I_12 = 1,75 A
+R_12 = 6,8571 Ohm
+I_24 = 0,875 A
+R_24 = 27,4286 Ohm
+Faktor 12V / 24V = 4,0 -fache Leiterlaenge
+\end{lstlisting}
+
+Bei einer 24 V Glühlampe ist der Widerstand viermal größer (vierfache
+Leiterlänge) als bei einer 12 V Glühlampe. Dieser Widerstand liegt
+hierbei an einer doppelten Spannung gegenüber der 12 V Spannung. Durch
+die doppelte Spannung und dem vierfachen Widerstand ergibt sich eine
+gleiche Leistung, bei gleicher Baugröße des Glaskolbens. Um diesen
+Widerstand in die gleiche Glaskolbengröße hineinzubekommen, ist die
+Glühwendel mäanderförmig gefertigt, im Glaskolben verlegt.
+
+\textbf{Aufgabe 13}
+
+siehe Musterlösung

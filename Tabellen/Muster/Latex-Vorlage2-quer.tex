@@ -1,0 +1,149 @@
+% ju 28-4-22 
+\documentclass[a4paper,fontsize=14pt,DIV=calc,fleqn,parskip=half]{scrartcl}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{lmodern}
+\usepackage[osf,sc]{mathpazo} 
+\usepackage[scale=.9,semibold]{sourcecodepro}   
+%\usepackage[osf]{sourcesanspro}   
+
+%\usepackage[left=2cm,right=2cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}
+%\usepackage[left=4cm,right=2cm,top=1cm, bottom=1cm,includeheadfoot]{geometry}
+%\usepackage[left=6cm,right=1cm,top=1cm, bottom=1cm,includeheadfoot]{geometry}
+\usepackage[landscape=true,left=2cm,right=2cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}%quer
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+\addtokomafont{section}{\color{blau5}}
+
+\usepackage{xcolor}
+% eigene Farbe definieren
+% Adobe Prozessfarben: CMYK: 100,50,0,35 -> 1,0.5,0,0.35
+\definecolor{orange}{cmyk}{0,0.55,0.61,0}   % 0,55,61,0
+\definecolor{blau5}{cmyk}{1,0.77,0.1,0.01}  % 100,77,10,
+\definecolor{rot5}{cmyk}{0.22,1,1,0.19}     % 22,100,100,19
+\definecolor{grau2}{cmyk}{0,0,0,0.1}        % 0,0,0,40
+\definecolor{blau}{cmyk}{0.93,0.66,0,0.21}% 
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{booktabs}
+%\usepackage{blindtext}
+\usepackage{listings}
+\usepackage{eurosym}%\euro 20,-
+\usepackage{url}% Links
+\usepackage[inline]{enumitem}
+\usepackage{pifont}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\name}{Jan Unger}% anpassen!!!!!
+\newcommand{\thema}{\LaTeX -Vorlage}% anpassen!!!!!
+\newcommand{\quelle}{\name}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\ihead{\textbf{Quelle:} \quelle}%{Kopfzeile innen}
+%\ohead{\textbf{Datum:} \today}  %{Kopfzeile außen}
+\ifoot{\textbf{Thema:} \thema}  %{Fußzeile  innen}
+\ofoot{\pagemark}             %{Fußzeile  außen}
+
+\title{\color{blau5}{\thema}}
+\author{\name}
+\date{\today}
+
+\begin{document}
+
+\thispagestyle{empty}
+\maketitle
+\newpage
+\setcounter{page}{1}
+
+\section*{Listen}%\label{sec:listen}\index{Listen}
+
+% Checkliste
+\begin{itemize}[label=\checkmark] %\itemsep -2pt
+	\item Check
+\end{itemize}
+
+% Checkliste
+\begin{itemize} 
+	\item [$\square$] Check
+\end{itemize}
+
+% Liste
+\begin{itemize} 
+	\item Punkt
+\end{itemize}
+% Liste numeriert
+\begin{enumerate} 
+	\item Liste numeriert
+	\item Punkt
+\end{enumerate}
+
+\newpage
+\section*{Abbildungen}%\label{sec:Abbildungen}\index{Abbildungen}
+
+Liste
+
+\begin{itemize} 
+	\item Punkt
+	\item Punkt
+	\item Punkt
+	\item Punkt
+\end{itemize}
+		
+\begin{figure}[!h]
+\centering
+\subcaptionbox{Logo 1 \label{logo1}}
+{\includegraphics[width=0.25\textwidth]{Logo/Logo1}}
+\subcaptionbox{Logo 2 \label{logo2}}
+{\includegraphics[width=0.25\textwidth]{Logo/Logo2}}
+\caption{Zwei Logos}\label{Logos}
+\end{figure}
+
+\newpage
+\section*{Abbildungen 2}%\label{sec:Abbildungen2}\index{Abbildungen2}
+%Logo in Neg, Grau, Schwarz (\autoref{fig:logoneggrauschwarz}).
+%
+\begin{figure}[!h]% hier: !hb
+	\centering
+	\begin{minipage}[b]{0.40\textwidth}
+		\includegraphics[width=\textwidth]{Logo/Logo-negativ}%
+	\end{minipage}
+	\hfill
+	\begin{minipage}[b]{0.30\textwidth}
+		\includegraphics[width=\textwidth]{Logo/Logo-Grau}%
+	\end{minipage}
+	\hfill
+	\begin{minipage}[b]{0.20\textwidth}
+		\includegraphics[width=\textwidth]{Logo/Logo-SW}%
+	\end{minipage}
+	\caption{Logo in Neg, Grau, Schwarz}\label{fig:logoneggrauschwarz}%% anpassen
+\end{figure}
+
+\newpage
+\section*{Text und Abbildungen}%\label{sec:TAbbildungen}\index{Text, Abbildungen}
+%Logo in Neg, Grau, Schwarz (\autoref{fig:logoneggrauschwarz}).
+%
+\begin{figure}[!h]% hier: !hb
+	\centering
+	\begin{minipage}[c]{0.55\textwidth}
+		Liste
+		\begin{itemize} 
+			\item Punkt
+			\item Punkt
+			\item Punkt
+			\item Punkt
+		\end{itemize}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[c]{0.35\textwidth}
+		\includegraphics[width=\textwidth]{Logo/Logo2}%
+	\end{minipage}
+	%\caption{Logo in Neg, Grau, Schwarz}\label{fig:logoneggrauschwarz}%% anpassen
+\end{figure}
+
+\end{document}

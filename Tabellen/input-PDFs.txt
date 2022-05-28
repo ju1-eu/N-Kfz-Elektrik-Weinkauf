@@ -1,0 +1,16 @@
+% ju 28-Mai-2022 input-PDFs.txt 
+
+\chapter{PDF}% book, print anpassen
+
+% -------
+\section{Messmethodik-Schaltkreis}\label{sec:Messmethodik-Schaltkreis}\index{Messmethodik-Schaltkreis}
+\includepdf[pages=-]{Tabellen/PDF/Messmethodik-Schaltkreis.pdf}
+
+% -------
+\section{Messprotokoll-Beispiel}\label{sec:Messprotokoll-Beispiel}\index{Messprotokoll-Beispiel}
+\includepdf[pages=-]{Tabellen/PDF/Messprotokoll-Beispiel.pdf}
+
+% -------
+\section{Messprotokoll}\label{sec:Messprotokoll}\index{Messprotokoll}
+\includepdf[pages=-]{Tabellen/PDF/Messprotokoll.pdf}
+
