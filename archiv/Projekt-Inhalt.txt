@@ -5,163 +5,224 @@
 % ---------------------------------
 % 
 /Users/jan/daten/kfz-meister/T2-Fachtheorie/Kfz-Elektrik/Folien-Mitschrift/N-Kfz-Elektrik-Weinkauf
--rw-r--r--@ 1 jan  staff    11M 28 Mai 21:41 Kfz-Elektrik-Weinkauf-print.pdf
--rw-r--r--  1 jan  staff    11K 28 Mai 21:40 Kfz-Elektrik-Weinkauf-print.bbl
+-rw-r--r--  1 jan  staff   126B 28 Mai 21:45 git-log.txt
+-rw-r--r--@ 1 jan  staff   2,8K 28 Mai 21:44 index.html
+-rw-r--r--@ 1 jan  staff    11M 28 Mai 21:41 N-Kfz-Elektrik-Weinkauf-print.pdf
+-rw-r--r--  1 jan  staff    11K 28 Mai 21:40 N-Kfz-Elektrik-Weinkauf-print.bbl
 -rw-r--r--@ 1 jan  staff   6,0K 28 Mai 21:34 README.md
 -rwxr-xr-x@ 1 jan  staff   6,7K 28 Mai 21:33 projekt.sh
--rw-r--r--  1 jan  staff   112B 28 Mai 21:19 git-log.txt
--rw-r--r--@ 1 jan  staff   959B 28 Mai 14:20 Kfz-Elektrik-Weinkauf-print.tex
+-rw-r--r--@ 1 jan  staff   959B 28 Mai 14:20 N-Kfz-Elektrik-Weinkauf-print.tex
 -rw-rw-r--@ 1 jan  staff   1,3K 28 Mai 11:58 Makefile
 
 texPandoc:
 total 0
-drwxr-xr-x   2 jan  staff    64B 28 Mai 21:44 .
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x   2 jan  staff    64B 28 Mai 22:50 .
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 
 html:
-total 976
-drwxr-xr-x  40 jan  staff   1,3K 28 Mai 21:44 .
--rw-r--r--   1 jan  staff    16K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
--rw-r--r--   1 jan  staff    16K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
--rw-r--r--   1 jan  staff    14K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
--rw-r--r--   1 jan  staff    14K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FS-Elektrik.html
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FS-Elektrik.html-e
--rw-r--r--   1 jan  staff    15K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff    15K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff    16K 28 Mai 21:44 FM_U08_Leistung_Loesung.html
--rw-r--r--   1 jan  staff    16K 28 Mai 21:44 FM_U08_Leistung_Loesung.html-e
--rw-r--r--   1 jan  staff    22K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html
--rw-r--r--   1 jan  staff    22K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   4,3K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   4,3K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   5,8K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html
--rw-r--r--   1 jan  staff   5,8K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   3,4K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   3,4K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   4,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   5,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   5,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   5,9K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html
--rw-r--r--   1 jan  staff   5,9K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html-e
--rw-r--r--   1 jan  staff   3,4K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   3,4K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   5,3K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html
--rw-r--r--   1 jan  staff   5,3K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   6,1K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   6,1K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html-e
--rw-r--r--   1 jan  staff   9,3K 28 Mai 21:44 03-Grundlagen-Elektrik2.html
--rw-r--r--   1 jan  staff   9,3K 28 Mai 21:44 03-Grundlagen-Elektrik2.html-e
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html-e
--rw-r--r--   1 jan  staff    36K 28 Mai 21:44 01-Grundlagen-Elektrik.html
--rw-r--r--   1 jan  staff    36K 28 Mai 21:44 01-Grundlagen-Elektrik.html-e
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+total 1072
+drwxr-xr-x  44 jan  staff   1,4K 28 Mai 22:50 .
+-rw-r--r--   1 jan  staff    19K 28 Mai 22:50 alle-pics.html
+-rw-r--r--   1 jan  staff    19K 28 Mai 22:50 alle-pics.html-e
+-rw-r--r--   1 jan  staff   974B 28 Mai 22:50 alle-PDFs.html
+-rw-r--r--   1 jan  staff   974B 28 Mai 22:50 alle-PDFs.html-e
+-rw-r--r--   1 jan  staff    16K 28 Mai 22:50 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
+-rw-r--r--   1 jan  staff    16K 28 Mai 22:50 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
+-rw-r--r--   1 jan  staff    14K 28 Mai 22:50 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
+-rw-r--r--   1 jan  staff    14K 28 Mai 22:50 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:50 FS-Elektrik.html
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:50 FS-Elektrik.html-e
+-rw-r--r--   1 jan  staff    15K 28 Mai 22:50 FM_U08_Leistung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff    15K 28 Mai 22:50 FM_U08_Leistung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff    16K 28 Mai 22:49 FM_U08_Leistung_Loesung.html
+-rw-r--r--   1 jan  staff    16K 28 Mai 22:49 FM_U08_Leistung_Loesung.html-e
+-rw-r--r--   1 jan  staff    21K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html
+-rw-r--r--   1 jan  staff    21K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,3K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   4,3K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,8K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   5,8K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,4K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   3,4K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   4,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   5,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,9K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html
+-rw-r--r--   1 jan  staff   5,9K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,4K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   3,4K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,3K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   5,3K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   6,1K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   6,1K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html-e
+-rw-r--r--   1 jan  staff   9,3K 28 Mai 22:49 03-Grundlagen-Elektrik2.html
+-rw-r--r--   1 jan  staff   9,3K 28 Mai 22:49 03-Grundlagen-Elektrik2.html-e
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html-e
+-rw-r--r--   1 jan  staff    36K 28 Mai 22:49 01-Grundlagen-Elektrik.html
+-rw-r--r--   1 jan  staff    36K 28 Mai 22:49 01-Grundlagen-Elektrik.html-e
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 
 cms-server:
-total 816
-drwxr-xr-x  40 jan  staff   1,3K 28 Mai 21:44 .
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
--rw-r--r--   1 jan  staff   9,0K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
--rw-r--r--   1 jan  staff   9,0K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 FS-Elektrik.html
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 FS-Elektrik.html-e
--rw-r--r--   1 jan  staff    10K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff    10K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FM_U08_Leistung_Loesung.html
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FM_U08_Leistung_Loesung.html-e
--rw-r--r--   1 jan  staff    18K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html
--rw-r--r--   1 jan  staff    18K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   2,7K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   2,7K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,6K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html
--rw-r--r--   1 jan  staff   4,6K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   3,8K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   3,8K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html
--rw-r--r--   1 jan  staff   4,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html-e
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   5,0K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   5,0K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   3,0K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html
--rw-r--r--   1 jan  staff   3,0K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html-e
--rw-r--r--   1 jan  staff   8,2K 28 Mai 21:44 03-Grundlagen-Elektrik2.html
--rw-r--r--   1 jan  staff   8,2K 28 Mai 21:44 03-Grundlagen-Elektrik2.html-e
--rw-r--r--   1 jan  staff   9,8K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html
--rw-r--r--   1 jan  staff   9,8K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html-e
--rw-r--r--   1 jan  staff    34K 28 Mai 21:44 01-Grundlagen-Elektrik.html
--rw-r--r--   1 jan  staff    34K 28 Mai 21:44 01-Grundlagen-Elektrik.html-e
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+total 800
+drwxr-xr-x  40 jan  staff   1,3K 28 Mai 22:49 .
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
+-rw-r--r--   1 jan  staff   8,9K 28 Mai 22:49 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
+-rw-r--r--   1 jan  staff   8,9K 28 Mai 22:49 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 FS-Elektrik.html
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 FS-Elektrik.html-e
+-rw-r--r--   1 jan  staff    10K 28 Mai 22:49 FM_U08_Leistung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff    10K 28 Mai 22:49 FM_U08_Leistung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FM_U08_Leistung_Loesung.html
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FM_U08_Leistung_Loesung.html-e
+-rw-r--r--   1 jan  staff    18K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html
+-rw-r--r--   1 jan  staff    18K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   2,7K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   2,7K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,6K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   4,6K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,8K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   3,8K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html
+-rw-r--r--   1 jan  staff   4,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html-e
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,0K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   5,0K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,0K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html
+-rw-r--r--   1 jan  staff   3,0K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html-e
+-rw-r--r--   1 jan  staff   8,2K 28 Mai 22:49 03-Grundlagen-Elektrik2.html
+-rw-r--r--   1 jan  staff   8,2K 28 Mai 22:49 03-Grundlagen-Elektrik2.html-e
+-rw-r--r--   1 jan  staff   9,8K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html
+-rw-r--r--   1 jan  staff   9,8K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html-e
+-rw-r--r--   1 jan  staff    34K 28 Mai 22:49 01-Grundlagen-Elektrik.html
+-rw-r--r--   1 jan  staff    34K 28 Mai 22:49 01-Grundlagen-Elektrik.html-e
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 
 cms-lokal:
 total 784
-drwxr-xr-x  40 jan  staff   1,3K 28 Mai 21:44 .
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
--rw-r--r--   1 jan  staff   9,0K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
--rw-r--r--   1 jan  staff   9,0K 28 Mai 21:44 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 FS-Elektrik.html
--rw-r--r--   1 jan  staff    11K 28 Mai 21:44 FS-Elektrik.html-e
--rw-r--r--   1 jan  staff    10K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff    10K 28 Mai 21:44 FM_U08_Leistung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FM_U08_Leistung_Loesung.html
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 FM_U08_Leistung_Loesung.html-e
--rw-r--r--   1 jan  staff    18K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html
--rw-r--r--   1 jan  staff    18K 28 Mai 21:44 FM_U07_gemischte_Schaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   2,7K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   2,7K 28 Mai 21:44 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,6K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html
--rw-r--r--   1 jan  staff   4,6K 28 Mai 21:44 FM_U06_Parallelschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   3,7K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   3,7K 28 Mai 21:44 FM_U05_Innenwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html
--rw-r--r--   1 jan  staff   4,7K 28 Mai 21:44 FM_U04_Spannungsabfall_Loesung.html-e
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
--rw-r--r--   1 jan  staff   1,9K 28 Mai 21:44 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html
--rw-r--r--   1 jan  staff   4,2K 28 Mai 21:44 FM_U03_Reihenschaltung_Loesung.html-e
--rw-r--r--   1 jan  staff   5,0K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html
--rw-r--r--   1 jan  staff   5,0K 28 Mai 21:44 FM_U02_Leiterwiderstand_Loesung.html-e
--rw-r--r--   1 jan  staff   3,0K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html
--rw-r--r--   1 jan  staff   3,0K 28 Mai 21:44 FM_U01_OhmschesGesetz_Loesung.html-e
--rw-r--r--   1 jan  staff   7,9K 28 Mai 21:44 03-Grundlagen-Elektrik2.html
--rw-r--r--   1 jan  staff   7,9K 28 Mai 21:44 03-Grundlagen-Elektrik2.html-e
--rw-r--r--   1 jan  staff   9,7K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html
--rw-r--r--   1 jan  staff   9,7K 28 Mai 21:44 02-Verbrennungsmotor-Elektrik.html-e
--rw-r--r--   1 jan  staff    34K 28 Mai 21:44 01-Grundlagen-Elektrik.html
--rw-r--r--   1 jan  staff    34K 28 Mai 21:44 01-Grundlagen-Elektrik.html-e
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x  40 jan  staff   1,3K 28 Mai 22:49 .
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.html-e
+-rw-r--r--   1 jan  staff   8,9K 28 Mai 22:49 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html
+-rw-r--r--   1 jan  staff   8,9K 28 Mai 22:49 FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.html-e
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 FS-Elektrik.html
+-rw-r--r--   1 jan  staff    11K 28 Mai 22:49 FS-Elektrik.html-e
+-rw-r--r--   1 jan  staff    10K 28 Mai 22:49 FM_U08_Leistung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff    10K 28 Mai 22:49 FM_U08_Leistung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FM_U08_Leistung_Loesung.html
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:49 FM_U08_Leistung_Loesung.html-e
+-rw-r--r--   1 jan  staff    17K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html
+-rw-r--r--   1 jan  staff    17K 28 Mai 22:49 FM_U07_gemischte_Schaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   2,7K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   2,7K 28 Mai 22:49 FM_U06_Parallelschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,6K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   4,6K 28 Mai 22:49 FM_U06_Parallelschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U05_Innenwiderstand_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,7K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   3,7K 28 Mai 22:49 FM_U05_Innenwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U04_Spannungsabfall_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html
+-rw-r--r--   1 jan  staff   4,7K 28 Mai 22:49 FM_U04_Spannungsabfall_Loesung.html-e
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html
+-rw-r--r--   1 jan  staff   1,9K 28 Mai 22:49 FM_U03_Reihenschaltung_Mathebuch_Loesung.html-e
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html
+-rw-r--r--   1 jan  staff   4,2K 28 Mai 22:49 FM_U03_Reihenschaltung_Loesung.html-e
+-rw-r--r--   1 jan  staff   5,0K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html
+-rw-r--r--   1 jan  staff   5,0K 28 Mai 22:49 FM_U02_Leiterwiderstand_Loesung.html-e
+-rw-r--r--   1 jan  staff   3,0K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html
+-rw-r--r--   1 jan  staff   3,0K 28 Mai 22:49 FM_U01_OhmschesGesetz_Loesung.html-e
+-rw-r--r--   1 jan  staff   7,9K 28 Mai 22:49 03-Grundlagen-Elektrik2.html
+-rw-r--r--   1 jan  staff   7,9K 28 Mai 22:49 03-Grundlagen-Elektrik2.html-e
+-rw-r--r--   1 jan  staff   9,7K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html
+-rw-r--r--   1 jan  staff   9,7K 28 Mai 22:49 02-Verbrennungsmotor-Elektrik.html-e
+-rw-r--r--   1 jan  staff    34K 28 Mai 22:49 01-Grundlagen-Elektrik.html
+-rw-r--r--   1 jan  staff    34K 28 Mai 22:49 01-Grundlagen-Elektrik.html-e
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
+
+Artikel:
+total 168
+-rw-r--r--   1 jan  staff   2,4K 28 Mai 22:41 E-Keywords-FT_U10_VW_Stromlaufplan_Beleuchtungssystem_Loesung.tex
+drwxr-xr-x  22 jan  staff   704B 28 Mai 22:41 .
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FT_U09_VW_Stromlaufplan_Motronic2l_AZJ_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FS-Elektrik.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U08_Leistung_Mathebuch_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U08_Leistung_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U07_gemischte_Schaltung_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U06_Parallelschaltung_Mathebuch_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U06_Parallelschaltung_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U05_Innenwiderstand_Mathebuch_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U05_Innenwiderstand_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U04_Spannungsabfall_Mathebuch_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U04_Spannungsabfall_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U03_Reihenschaltung_Mathebuch_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U03_Reihenschaltung_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U02_Leiterwiderstand_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-FM_U01_OhmschesGesetz_Loesung.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-03-Grundlagen-Elektrik2.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-02-Verbrennungsmotor-Elektrik.tex
+-rw-r--r--   1 jan  staff   2,3K 28 Mai 22:41 E-Keywords-01-Grundlagen-Elektrik.tex
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
+-rw-r--r--@  1 jan  staff   6,0K 28 Mai 22:37 .DS_Store
+
+scripteBash:
+total 240
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
+drwxr-xr-x  21 jan  staff   672B 28 Mai 22:36 .
+-rwxr-xr-x@  1 jan  staff   3,5K 28 Mai 22:36 artikel-anlegen.sh
+-rwxr-xr-x@  1 jan  staff   2,7K 28 Mai 21:50 gitversionieren.sh
+-rwxr-xr-x@  1 jan  staff   4,7K 28 Mai 21:34 www.sh
+-rw-r--r--@  1 jan  staff    10K 28 Mai 14:51 .DS_Store
+-rwxr-xr-x@  1 jan  staff   6,8K 25 Feb 18:39 sed.sh
+-rw-r--r--   1 jan  staff   1,4K  5 Feb 12:12 gitconfig.txt
+-rw-r--r--   1 jan  staff   207B  5 Feb 12:12 gitattributes.txt
+-rw-------@  1 jan  staff   487B  5 Feb 12:11 gitignore.txt
+-rwxr-xr-x   1 jan  staff   1,7K 18 Dez 13:33 inputImgMarkdown.sh
+-rwxr-xr-x@  1 jan  staff   1,1K 18 Dez 13:25 inputPdfsLatex.sh
+-rwxr-xr-x   1 jan  staff   3,3K 18 Dez 12:14 picFiles.sh
+-rwxr-xr-x   1 jan  staff   3,9K 22 Jul  2021 inputKapitelLatex.sh
+-rwxr-xr-x@  1 jan  staff   789B 22 Jul  2021 projektInhalt.sh
+-rwxr-xr-x   1 jan  staff   607B 22 Jul  2021 projekterstellen.sh
+-rwxr-xr-x   1 jan  staff   8,0K 22 Jul  2021 codeFiles.sh
+-rwxr-xr-x   1 jan  staff   6,1K 22 Jul  2021 jpg-pdf.sh
+-rw-r--r--   1 jan  staff    21K 16 Jun  2021 SED-Beschreibung.sh
+-rwxr-xr-x   1 jan  staff   1,1K 16 Jun  2021 markdownLatexHtml.sh
+-rwxr-xr-x   1 jan  staff    48B 13 Jan  2021 hallo.sh
+
+archiv:
+total 5120
+-rw-r--r--   1 jan  staff    12K 28 Mai 22:50 Projekt-Inhalt.txt
+-rw-r--r--   1 jan  staff   3,6K 28 Mai 22:50 inhalt.tex
+-rw-r--r--   1 jan  staff   8,8K 28 Mai 22:50 input-img.txt
+-rw-r--r--   1 jan  staff    21K 28 Mai 22:41 Pics-files.tex
+-rw-r--r--   1 jan  staff   531B 28 Mai 22:41 Quellcode-files.tex
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
+drwxr-xr-x  10 jan  staff   320B 28 Mai 21:51 .
+-rw-r--r--   1 jan  staff    51K 28 Mai 21:51 md.zip
+-rw-r--r--   1 jan  staff   2,4M 28 Mai 21:51 content.zip
+-rw-r--r--@  1 jan  staff   6,0K 28 Mai 14:41 .DS_Store
 
 img-out:
 total 0
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 drwxr-xr-x   2 jan  staff    64B 28 Mai 21:44 .
-
-Artikel:
-total 16
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
--rw-r--r--@  1 jan  staff   6,0K 28 Mai 21:43 .DS_Store
-drwxr-xr-x   3 jan  staff    96B 28 Mai 21:43 .
 
 content:
 total 320
-drwxr-xr-x@ 22 jan  staff   704B 28 Mai 21:44 tex
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 22 jan  staff   704B 28 Mai 22:50 tex
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 -rw-r--r--   1 jan  staff   4,5K 28 Mai 21:40 abstract.aux
 -rw-r--r--   1 jan  staff   4,4K 28 Mai 21:40 titlepage.aux
 -rw-r--r--   1 jan  staff   4,4K 28 Mai 21:40 meta.aux
@@ -189,7 +250,7 @@ drwxr-xr-x   8 jan  staff   256B 25 Okt  2021 beispiele
 
 md:
 total 368
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 drwxr-xr-x@ 29 jan  staff   928B 28 Mai 21:30 .
 -rw-r--r--@  1 jan  staff   6,0K 28 Mai 21:30 .DS_Store
 -rw-r--r--@  1 jan  staff   7,5K 28 Mai 19:30 FS-Elektrik.md
@@ -219,22 +280,9 @@ drwxr-xr-x@ 29 jan  staff   928B 28 Mai 21:30 .
 -rw-r--r--   1 jan  staff   6,9K 13 Jan  2021 literatur-sport.bib
 -rw-r--r--   1 jan  staff   6,0K 13 Jan  2021 github.css
 
-archiv:
-total 648
--rw-r--r--   1 jan  staff    12K 28 Mai 21:44 Projekt-Inhalt.txt
--rw-r--r--   1 jan  staff   3,6K 28 Mai 21:44 inhalt.tex
--rw-r--r--   1 jan  staff   8,8K 28 Mai 21:44 input-img.txt
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
--rw-r--r--   1 jan  staff    21K 28 Mai 21:37 Pics-files.tex
--rw-r--r--   1 jan  staff   531B 28 Mai 21:37 Quellcode-files.tex
-drwxr-xr-x  10 jan  staff   320B 28 Mai 21:19 .
--rw-r--r--   1 jan  staff    15K 28 Mai 21:19 md.zip
--rw-r--r--   1 jan  staff   236K 28 Mai 21:19 content.zip
--rw-r--r--@  1 jan  staff   6,0K 28 Mai 14:41 .DS_Store
-
 code:
 total 496
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 drwxr-xr-x  53 jan  staff   1,7K 28 Mai 16:02 .
 -rw-r--r--   1 jan  staff     0B 24 Mär 19:26 x
 -rw-r--r--@  1 jan  staff   826B 24 Mär 19:26 FT_U10_VW_Stromlaufplan_Scheinwerferhoehenverstellung_Loesung.md
@@ -288,33 +336,9 @@ drwxr-xr-x  13 jan  staff   416B 24 Mär 18:43 .ipynb_checkpoints
 -rw-rw-r--@  1 jan  staff   308B 20 Nov  2021 requirements1.txt
 -rw-r--r--@  1 jan  staff   888B 22 Jul  2021 Python_keywords.py
 
-scripteBash:
-total 240
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
--rwxr-xr-x@  1 jan  staff   4,7K 28 Mai 21:34 www.sh
--rwxr-xr-x@  1 jan  staff   2,7K 28 Mai 21:34 gitversionieren.sh
--rwxr-xr-x@  1 jan  staff   3,5K 28 Mai 20:39 artikel-anlegen.sh
--rw-r--r--@  1 jan  staff    10K 28 Mai 14:51 .DS_Store
-drwxr-xr-x  21 jan  staff   672B 28 Mai 14:51 .
--rwxr-xr-x@  1 jan  staff   6,8K 25 Feb 18:39 sed.sh
--rw-r--r--   1 jan  staff   1,4K  5 Feb 12:12 gitconfig.txt
--rw-r--r--   1 jan  staff   207B  5 Feb 12:12 gitattributes.txt
--rw-------@  1 jan  staff   487B  5 Feb 12:11 gitignore.txt
--rwxr-xr-x   1 jan  staff   1,7K 18 Dez 13:33 inputImgMarkdown.sh
--rwxr-xr-x@  1 jan  staff   1,1K 18 Dez 13:25 inputPdfsLatex.sh
--rwxr-xr-x   1 jan  staff   3,3K 18 Dez 12:14 picFiles.sh
--rwxr-xr-x   1 jan  staff   3,9K 22 Jul  2021 inputKapitelLatex.sh
--rwxr-xr-x@  1 jan  staff   789B 22 Jul  2021 projektInhalt.sh
--rwxr-xr-x   1 jan  staff   607B 22 Jul  2021 projekterstellen.sh
--rwxr-xr-x   1 jan  staff   8,0K 22 Jul  2021 codeFiles.sh
--rwxr-xr-x   1 jan  staff   6,1K 22 Jul  2021 jpg-pdf.sh
--rw-r--r--   1 jan  staff    21K 16 Jun  2021 SED-Beschreibung.sh
--rwxr-xr-x   1 jan  staff   1,1K 16 Jun  2021 markdownLatexHtml.sh
--rwxr-xr-x   1 jan  staff    48B 13 Jan  2021 hallo.sh
-
 images:
 total 1136
-drwxr-xr-x   29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@  30 jan  staff   960B 28 Mai 22:40 ..
 drwxr-xr-x@ 115 jan  staff   3,6K 28 Mai 21:30 Skizze
 -rw-r--r--@   1 jan  staff    10K 28 Mai 21:30 .DS_Store
 drwxr-xr-x   24 jan  staff   768B 13 Mai 20:55 Logo
@@ -327,15 +351,15 @@ drwxr-xr-x    3 jan  staff    96B  5 Feb 13:17 Video
 
 img-in:
 total 24
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 drwxr-xr-x   4 jan  staff   128B 28 Mai 14:45 Messmethodik
 -rw-r--r--@  1 jan  staff    10K 28 Mai 14:43 .DS_Store
 drwxr-xr-x   4 jan  staff   128B 19 Dez 17:24 .
 
 Tabellen:
 total 40
--rw-r--r--   1 jan  staff   553B 28 Mai 21:44 input-PDFs.txt
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+-rw-r--r--   1 jan  staff   553B 28 Mai 22:50 input-PDFs.txt
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 -rw-r--r--   1 jan  staff   8,0K 28 Mai 21:29 .DS_Store
 drwxr-xr-x   7 jan  staff   224B 28 Mai 13:46 PDF
 drwxr-xr-x  41 jan  staff   1,3K 13 Mai 19:18 Muster
@@ -344,7 +368,7 @@ drwxr-xr-x   7 jan  staff   224B 18 Dez 13:37 .
 
 css:
 total 24
-drwxr-xr-x  29 jan  staff   928B 28 Mai 21:44 ..
+drwxr-xr-x@ 30 jan  staff   960B 28 Mai 22:40 ..
 -rw-r--r--   1 jan  staff   6,0K 13 Jan  2021 github.css
 drwxr-xr-x   4 jan  staff   128B 13 Jan  2021 .
 -rw-r--r--   1 jan  staff   1,3K 13 Jan  2021 design.css
